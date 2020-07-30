@@ -12,29 +12,31 @@ DONE : finalni verze karty
 PICK : dobra verze s alternativami
 
     Vybornej fit hlasky na kartu, ale mame dalsi vyborny moznosti.
-    Karta se muze jeste zmenit, ale bude VYBORNA pokud ji nezenime.
+    Karta se muze jeste zmenit, ale bude dobra i kdyz ji nezenime.
 
     Prace: vybrat z alternativ
 
 
 FIND : verze, ktera nema alternativy
 
-    Dobrej fit hlasky na kartu. Hlaska muze byt kosata / nema obvious link na kartu.
+    OK fit hlasky na kartu, ale jeste se chceme podivat po dalsich moznostech.
+    Hlaska muze byt kosata / nemit obvious link na kartu.
     
     Prace: brainstorm, najit alternativy
 
 
 CLASH : verze, ktera ma konflikty s jinymi kartami
 
-   Dobrej fit hlasky na kartu, ale stejne tak by se dost hodila na jinou kartu.
-   Nebo vic karet ma tu samou hlasku.
+   OK fit hlasky na kartu, ale vic karet se pere o tu samou hlasku.
+   Aka pouzita hlaska by se dost hodila na jinou kartu.
    
    Prace: vyresit konflikty / zafocusovat vtip
     
 
-MEH : underwhelming verze karty
+BROKEN : na verzi karty neco nehraje
     
-    fit hlasky a karty je potreba prezkoumat.
+    Fit hlasky a karty je potreba prezkoumat.
+    Budto je ve vtipu fakticka chyba, nebo jako vtip nefunguje dostatecne.
     Karta se nejspis bude menit.
     
     Prace: zvazit jinej pristup (postavit joke jinak)

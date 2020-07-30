@@ -1,0 +1,40 @@
+Vysvetleni Stavu karet
+----------------------
+
+DONE : finalni verze karty
+
+    Vybornej fit hlasky na kartu.
+    Nemuze to byt nic jinyho. Neni potreba nic menit.
+    
+    Prace: hotova
+
+
+PICK : dobra verze s alternativami
+
+    Vybornej fit hlasky na kartu, ale mame dalsi vyborny moznosti.
+    Karta se muze jeste zmenit, ale bude VYBORNA pokud ji nezenime.
+
+    Prace: vybrat z alternativ
+
+
+FIND : verze, ktera nema alternativy
+
+    Dobrej fit hlasky na kartu. Hlaska muze byt kosata / nema obvious link na kartu.
+    
+    Prace: brainstorm, najit alternativy
+
+
+CLASH : verze, ktera ma konflikty s jinymi kartami
+
+   Dobrej fit hlasky na kartu, ale stejne tak by se dost hodila na jinou kartu.
+   Nebo vic karet ma tu samou hlasku.
+   
+   Prace: vyresit konflikty / zafocusovat vtip
+    
+
+MEH : underwhelming verze karty
+    
+    fit hlasky a karty je potreba prezkoumat.
+    Karta se nejspis bude menit.
+    
+    Prace: zvazit jinej pristup (postavit joke jinak)

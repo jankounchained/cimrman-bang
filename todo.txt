@@ -1,0 +1,39 @@
+Hot fixy)
+
+    
+
+New files)
+
+    Seznam vysvetlovacich textu na kartach
+    
+    Seznam hodnosti karet (e.g. srdcovej kral, karova osmicka etc.)
+    
+    Graficka cast: Mat
+        soubory psd
+        sablony indesign
+        dokumentace / filozofie
+        mela by byt vlastni branch
+        
+    Obrazky: Fila
+        soubory png
+        dokumentace / filozofie
+        mela by byt vlastni branch
+
+
+Skripty)
+
+    Duplikaty v nazvu karty / hlasce
+    
+    Stav questu - vizualizace
+        kolik chybi dopnit karet
+        kolik je karet v jakym stavu
+
+        
+Organizacni)
+
+    Metodika
+        vsechen text jsou .csv, nebo .txt soubory
+        branche na features
+
+    Slozka na konecny navrhy karet
+        Plus novej csv, kde se zaznamenava stav

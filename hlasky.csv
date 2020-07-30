@@ -1,6 +1,6 @@
 "pack","kategorie","funkce","karta","prepis","alternativy","stav","comment ke stavu"
 "dodge","hneda","zivoty","whiskey",,,,
-"dodge","hneda","zivoty","tequila","Já bych si s dovolením také vzal",,"find",
+"dodge","hneda","zivoty","tequila",,,,
 "dodge","hneda","obrana","uhyb",,,,
 "dodge","hneda","utok","uder",,,,
 "dodge","zelena","zivoty","cutora",,,,
@@ -13,7 +13,7 @@
 "dodge","hneda","presun karet","rvacka",,,,
 "dodge","hneda","presun karet","ragtime",,,,
 "dodge","hneda","utok","springfield",,,,
-"dodge","zelena","utok","nuz",,"elektricka sesle","find",
+"dodge","zelena","utok","nuz","Elektricka sesle",,"pick",
 "dodge","zelena","vzdalenost","derringer",,,,
 "dodge","zelena","utok","pepper box",,,,
 "dodge","hneda","utok","puska na bizony",,,,
@@ -24,12 +24,12 @@
 "zaklad","hneda","utok","bang",,,,
 "zaklad","hneda","obrana","vedle",,,,
 "zaklad","hneda","zivoty","pivo",,,,
-"zaklad","hneda","utok","duel",,,,
+"zaklad","hneda","utok","duel","Souboj mečů",,"broken","not a thing"
 "zaklad","hneda","zivoty","saloon","Píseň proti trudnomyslnosti",,"done",
 "zaklad","modra","vzdalenost","volcanic",,,,
 "zaklad","modra","vzdalenost","schofield",,,,
-"zaklad","modra","vzdalenost","remington",,,,
-"zaklad","modra","vzdalenost","carabine",,,,
+"zaklad","modra","vzdalenost","remington","Meč pana přednosty",,"pick",
+"zaklad","modra","vzdalenost","carabine","Meč provinilcův",,"pick",
 "zaklad","modra","vzdalenost","winchester","Čakovický prak",,"done",
 "zaklad","modra","misc","dynamit","Kamna co se propálily podlahou",,"done",
 "zaklad","hneda","utok","indiani","Uku a Lele",,"done",
@@ -40,9 +40,9 @@
 "zaklad","hneda","presun karet","wells fargo",,,,
 "zaklad","modra","misc","vezeni","Dovolte abych vám potřásl pravicí","Šatlava","pick",
 "zaklad","modra","vzdalenost","mustang","Kdo chvíli močil, močí opodál","Driftujeme","pick",
-"zaklad","hneda","utok","kulomet","Debil, blbeček, debil, blbeček",,,
-"zaklad","modra","vzdalenost","appaloosa","Časopis Kůň přítel člověka","Varianta brod","pick",
-"zaklad","hneda","presun karet","emporio","Herberk",,"done",
+"zaklad","hneda","utok","kulomet","Debil, blbeček, debil, blbeček",,"clash","houfnice, ale dal bych to na kulas, protoze ne nenabiji"
+"zaklad","modra","vzdalenost","appaloosa","Varianta brod","Časopis Kůň přítel člověka","done",
+"zaklad","hneda","presun karet","emporio","Já bych si s dovolením také vzal","Herberk","done",
 "dodge","postava","lize kdyz hraje kartu mimo svuj tah","Molly Stark",,,,
 "dodge","postava","neplati kara","Apache Kid","Náčelník Holé Neštětí",,"done",
 "zaklad","postava","vzdalenost -1","Rose Doolan","Pric Krasoň",,"done",
@@ -50,7 +50,7 @@
 "zaklad","postava","krade z ruky pokud je zasazen","El Gringo",,,,
 "dodge","postava","cokoliv vedle","Elena Fuente",,,,
 "zaklad","postava","cokoliv bang","Willy the Kid",,,,
-"dodge","postava","dva zivoty za pivo","Tequila Joe","Cimrman","výčepní od sirotků","find","moc specificky, aby to byl cimrman. "
+"dodge","postava","dva zivoty za pivo","Tequila Joe","Cimrman","výčepní od sirotků","broken","moc specificky, aby to byl cimrman. "
 "zaklad","postava","dve vedle na jeho bang","Slab the Killer",,,,
 "dodge","postava","neplati karty na stole","Belle Star",,,,
 "zaklad","postava","dve karty = zivot","Sid Ketchum",,,,
@@ -80,7 +80,7 @@
 "high noon","event","obrat poradi","Zlata Horecka",,,,
 "high noon","event","liza se 1","Zizen",,,,
 "high noon","event","ban na pivo","Reverend",,,,
-"high noon","event","dva bangy povoleny","Prestrelka",,,,
+"high noon","event","dva bangy povoleny","Prestrelka",,"Padající rozkaz sv. Václava","clash","Léčka, Odstřelovač"
 "high noon","event","vsichni zahodi modrou","Daltonove",,,,
 "high noon","event","vsechno piky","Prokleti",,,,
 "high noon","event","high noon","High Noon",,,,
